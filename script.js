@@ -13,7 +13,13 @@ ConceptionDeveloppement.addEventListener("click", function() {
     if (etat === "detailscacher") {
       document.getElementById("p1").style.display="block"; // Fait disparaitre le lorem
       etat = "detailsvisible"; // Change l'état
-      document.getElementById("p2","p3","p4","p5").style.display="none"
+      document.getElementById("p2").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p3").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p4").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p5").style.display="none"
       etat = "detailscacher"; // Change l'état
     } else {
       document.getElementById("p1").style.display="none"; // Fait apparaitre le lorem
@@ -25,7 +31,13 @@ ConceptionDeveloppement.addEventListener("click", function() {
     if (etat === "detailscacher") {
       document.getElementById("p2").style.display="block"; // Fait disparaitre le lorem
       etat = "detailsvisible"; // Change l'état
-      document.getElementById("p1","p3","p4","p5").style.display="none"
+      document.getElementById("p1").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p3").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p4").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p5").style.display="none"
       etat = "detailscacher"; // Change l'état
     } else {
       document.getElementById("p2").style.display="none"; // Fait apparaitre le lorem
@@ -37,7 +49,13 @@ ConceptionDeveloppement.addEventListener("click", function() {
     if (etat === "detailscacher") {
       document.getElementById("p3").style.display="block"; // Fait disparaitre le lorem
       etat = "detailsvisible"; // Change l'état
-      document.getElementById("p1","p2","p4","p5").style.display="none"
+      document.getElementById("p1").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p2").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p4").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p5").style.display="none"
       etat = "detailscacher"; // Change l'état
     } else {
       document.getElementById("p3").style.display="none"; // Fait apparaitre le lorem
@@ -49,7 +67,13 @@ ConceptionDeveloppement.addEventListener("click", function() {
     if (etat === "detailscacher") {
       document.getElementById("p4").style.display="block"; // Fait disparaitre le lorem
       etat = "detailsvisible"; // Change l'état
-      document.getElementById("p1","p2","p3","p4").style.display="none"
+      document.getElementById("p1").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p2").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p3").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p5").style.display="none"
       etat = "detailscacher"; // Change l'état
     } else {
       document.getElementById("p4").style.display="none"; // Fait apparaitre le lorem
@@ -61,7 +85,13 @@ ConceptionDeveloppement.addEventListener("click", function() {
     if (etat === "detailscacher") {
       document.getElementById("p5").style.display="block"; // Fait disparaitre le lorem
       etat = "detailsvisible"; // Change l'état
-      document.getElementById("p1","p2","p3","p4").style.display="none"
+      document.getElementById("p1").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p2").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p3").style.display="none"
+      etat = "detailscacher"; // Change l'état
+      document.getElementById("p4").style.display="none"
       etat = "detailscacher"; // Change l'état
     } else {
       document.getElementById("p5").style.display="none"; // Fait apparaitre le lorem
