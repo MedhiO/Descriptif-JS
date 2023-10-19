@@ -1,0 +1,83 @@
+body{
+    background-image: url(conducteur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div11{
+    background-color: #83375f;
+    color: white;
+    font-size: 30px;
+    width: auto;
+    height: 50px;
+    padding: 50px;
+}
+
+.div22{
+    background-color: #203052;
+    color: white;
+    font-size: 30px;
+    width: auto;
+    height: 50px;
+    padding: 50px;
+}
+
+.div33{
+    background-color: #7a9e36;
+    color: white;
+    font-size: 30px;
+    width: auto;
+    height: 50px;
+    padding: 50px;
+}
+
+.div44{
+    background-color: #b54b3a;
+    color: white;
+    font-size: 30px;
+    width: auto;
+    height: 50px;
+    padding: 50px;
+}
+
+.div55{
+    background-color: #fca589;
+    color: white;
+    font-size: 30px;
+    width: auto;
+    height: 50px;
+    padding: 50px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+    height: 50px;
+    padding: 50px;
+}
+
+.p11{
+    display: none;
+    font-size: 20px;
+}
+
+.p22{
+    display: none;
+    font-size: 20px;
+}
+
+.p33{
+    display: none;
+    font-size: 20px;
+}
+
+.p44{
+    display: none;
+    font-size: 20px;
+}
+
+.p55{
+    display: none;
+    font-size: 20px;
+}
